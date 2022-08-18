@@ -2,5 +2,9 @@
   {
     "package": "bestNormalize",
     "oncran": true
+  },
+  {
+    "package": "sparseR",
+    "oncran": true
   }
 ]
