@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sparseR"]
-	path = sparseR
-	url = https://github.com/petersonr/sparser
-	shallow = true
-	registered = true
 [submodule "bestNormalize"]
 	path = bestNormalize
 	url = https://github.com/petersonr/bestnormalize
+	shallow = true
+	registered = true
+[submodule "sparseR"]
+	path = sparseR
+	url = https://github.com/petersonr/sparser
 	shallow = true
 	registered = true

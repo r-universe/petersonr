@@ -1,10 +1,10 @@
 [
   {
-    "package": "sparseR",
+    "package": "bestNormalize",
     "oncran": true
   },
   {
-    "package": "bestNormalize",
+    "package": "sparseR",
     "oncran": true
   }
 ]
