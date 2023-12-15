@@ -8,3 +8,6 @@
 [submodule "sparseR"]
 	path = sparseR
 	url = https://github.com/petersonr/sparser
+[submodule "srlTS"]
+	path = srlTS
+	url = https://github.com/petersonr/srlts
