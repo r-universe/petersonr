@@ -5,6 +5,9 @@
 [submodule "bestNormalize"]
 	path = bestNormalize
 	url = https://github.com/petersonr/bestnormalize
+[submodule "fastTS"]
+	path = fastTS
+	url = https://github.com/petersonr/fastts
 [submodule "sparseR"]
 	path = sparseR
 	url = https://github.com/petersonr/sparser
